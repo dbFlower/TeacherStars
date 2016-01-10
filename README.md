@@ -1,5 +1,5 @@
 #Usage
-##tep1
+##Step1
 Open broswer and switch to evaluate page.
 
 ![evaluate page](assets/img/jxgl.png)
