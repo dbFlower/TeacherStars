@@ -1,20 +1,21 @@
 #Usage
 ##Step1
-Open broswer and switch to evaluate page.
+打开评教页面
 
 ![evaluate page](assets/img/jxgl.png)
 ##Step2
-Open Console(F12 for Win, cmd + op + i for OSX).
+打开控制台 (chrome：windows按F12, MacOS 按 cmd + option + i。IE: F12或者右键检查元素。 Safari 请先开启开发模式。)
 
-Paste script.
+粘贴 evaluate.js 的代码到控制台
+
+回车
+
 ![script](assets/img/console.png)
-##Step3
-Press Enter to execute script
 ##Step4
-###Do not forget to click submit button!
+###别忘记点提交！！！
 
-###Do not forget to click submit button!
+###别忘记点提交！！！
 
-###Do not forget to click submit button!
+###别忘记点提交！！！
 
 ![submit](assets/img/submit.png)
