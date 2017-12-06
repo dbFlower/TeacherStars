@@ -4,6 +4,8 @@
   rate = rate || 1
   var i = 1
   var _onload = frame.onload 
+  // remove alert
+  frame.contentWindow.alert = console.log
   frame.onload = function (events) {
 	try {
 	  _onload.apply(this, arguments)
